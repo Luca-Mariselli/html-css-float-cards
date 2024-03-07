@@ -34,6 +34,10 @@ html {
   overflow: hidden;
 }
 
+.fontsmall{
+  font-size: 14px;
+}
+
 /* header */
 header {
   margin: 20px 20px;
